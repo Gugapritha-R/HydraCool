@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# Firebase credentials (VERY IMPORTANT)
+*.json
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+backend/hydracool-19bf8-firebase-adminsdk-fbsvc-745a7dfac9.json
